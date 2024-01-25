@@ -17,11 +17,11 @@ The notebook will automatically fetche historical order book data for BTCUSDT fo
 
 ## References
 
-[1] [DeepLOB: Deep convolutional neural networks for limit order books](https://arxiv.org/abs/1808.03668) - Zhang Z, Zohren S, Roberts S.
-[2] [Deep Order Flow Imbalance: Extracting Alpha at Multiple Horizons from the Limit Order Book](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3900141) - Kolm, Petter N. et al.
-[3] [THE SHORT-TERM PREDICTABILITY OF RETURNS IN ORDER BOOK MARKETS: A DEEP LEARNING PERSPECTIVE](https://arxiv.org/pdf/2211.13777.pdf) - Lucchese L, S.Pankkanen M, E.D.Veraart A.
-[4] [Order Flow Imbalance - A High-Frequency Trading Signal](https://dm13450.github.io/2022/02/02/Order-Flow-Imbalance.html) - Dean Markwick.
-[5] [How informative is the Order Book Beyond the Best Levels? Machine Learning Perspective](https://arxiv.org/pdf/2203.07922.pdf) - Tran D, Kanniainen J, Iosifidis A.
+ - [1] [DeepLOB: Deep convolutional neural networks for limit order books](https://arxiv.org/abs/1808.03668) - Zhang Z, Zohren S, Roberts S.
+ - [2] [Deep Order Flow Imbalance: Extracting Alpha at Multiple Horizons from the Limit Order Book](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3900141) - Kolm, Petter N. et al.
+ - [3] [THE SHORT-TERM PREDICTABILITY OF RETURNS IN ORDER BOOK MARKETS: A DEEP LEARNING PERSPECTIVE](https://arxiv.org/pdf/2211.13777.pdf) - Lucchese L, S.Pankkanen M, E.D.Veraart A.
+ - [4] [Order Flow Imbalance - A High-Frequency Trading Signal](https://dm13450.github.io/2022/02/02/Order-Flow-Imbalance.html) - Dean Markwick.
+ - [5] [How informative is the Order Book Beyond the Best Levels? Machine Learning Perspective](https://arxiv.org/pdf/2203.07922.pdf) - Tran D, Kanniainen J, Iosifidis A.
 
 ## Training the Model
 
