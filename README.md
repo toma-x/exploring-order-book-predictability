@@ -1,6 +1,6 @@
 # Exploring order book predictability in cryptocurrency markets in a deep learning perspective using JAX
 
-[![Open In Colab](https://img.shields.io/badge/Open%20in%20Colab-View%20Notebook-blue?logo=google-colab)](https://colab.research.google.com/github/toma-x/exploring-order-book-predictability/blob/main/Exploring-book-predictability.ipynb)
+[![](https://img.shields.io/badge/Open%20in%20Colab-View%20Notebook-blue?logo=google-colab)](https://colab.research.google.com/github/toma-x/exploring-order-book-predictability/blob/main/Exploring-book-predictability.ipynb)
 
 ## Overview
 
