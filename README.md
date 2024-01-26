@@ -9,12 +9,12 @@ Our experiment show clear sign of short/mid term predictability in a trading per
 
 ## Business understanding
 
-The [order book](https://www.investopedia.com/terms/o/order-book.asp) contains the bid and ask orders placed by all the market participants, this book convolve a lot of information on the current state of a given market. While this is difficult to use the order book and read it with the naked eye, a machine can efficiently read and extract crucial information from the order book. The objective of our analysis is to identify whiche books are leading to movements in the market.
+The [order book](https://www.investopedia.com/terms/o/order-book.asp) contains the bid and ask orders placed by all the market participants, this book convolve a lot of information on the current state of a given market. While this is difficult to use the order book and read it with the naked eye, a machine can efficiently read and extract crucial information from the order book. The objective of our analysis is to identify which books are leading to movements in the market.
 
 ## Data dowload and processing
 
-The study referenced in [5] implies that the initial level provides the most valuable information. In line with this perspective, the data we use is the BTCUSDT book ticker (the first level of the order book), publicly available for the first day of each month on Tardis.dev. 
-The notebook will automatically fetche historical order book data for BTCUSDT for the past six months, process the data, and prepare it for training.
+The study referenced in [5] implies that the initial level provides the most valuable information. In line with this perspective, the data we use is the BTCUSDT book ticker (the first level of the order book), publicly available for the first day of each month on [Tardis.dev](https://tardis.dev).
+The notebook will automatically fetch historical order book data for BTCUSDT for the past six months, process the data, and prepare it for training.
 
 ## Training the Model
 
@@ -29,7 +29,7 @@ We present the results for difference confidence levels, and the impact of laten
 
 ## Conclusion
 
-This project provides good insights into the predictability of order book data in cryptocurrency markets using a deep learning approach. It demonstrates the implementation of a trading strategy based on the model's predictions and evaluates its performance under realistic trading conditions. The use of such a predictive system could easily be wrapped within a trading bot for automated use, if able of consistently producing reliable predictions.
+This project provides good insights into the predictability of order book data in cryptocurrency markets using a deep learning approach. It demonstrates the implementation of a trading strategy based on the model's predictions and evaluates its performance under realistic trading conditions. The use of such a predictive system could easily be wrapped within a trading bot for automated use, if able of consistently producing reliable predictions. 
 
 ## References
 
