@@ -5,7 +5,7 @@
 ## Overview
 
 This project explores predictability in cryptocurrency markets, focusing on Bitcoin, the most widely known and liquid cryptocurrency. We use a Convolutional Neural Network (CNN), implemented with FLAX and [JAX](https://jax.readthedocs.io/en/latest/).
-Our experiment show clear sign of short/mid term predictability in a trading perspective.
+Our experiment shows clear sign of short/mid term predictability in a trading perspective.
 
 ## Business understanding
 
