@@ -13,7 +13,7 @@ The [order book](https://www.investopedia.com/terms/o/order-book.asp) contains t
 
 ## Data dowload and processing
 
-The study referenced in [5] implies that the initial level provides the most valuable information. In line with this perspective, the data we use is the BTCUSDT book ticker (the first level of the order book), publicly available for the first day of each month on [Tardis.dev](https://tardis.dev).
+The study referenced in [5] implies that the initial level provides the most valuable information. In line with this perspective, the data used is the BTCUSDT book ticker (the first level of the order book), publicly available for the first day of each month on [Tardis.dev](https://tardis.dev).
 The notebook will automatically fetch historical order book data for BTCUSDT for the past six months, process the data, and prepare it for training.
 
 ## Training the Model
